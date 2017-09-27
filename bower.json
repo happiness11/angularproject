@@ -1,0 +1,18 @@
+{
+  "name": "angular-todo",
+  "homepage": "https://github.com/happiness11/angularproject",
+  "authors": [
+    "Happiness Nneke <happymba11@yahoo.com>"
+  ],
+  "description": "To do list project",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
