@@ -1,7 +1,7 @@
-angular.module("TodoDirective",[]);
+angular.module("TodoDirective",[])
    .directive("todoTable", function(){
        return{
-           restrict: "A";
+           restrict: "A",
            templateUrl: "templates/directive/todo-table.html"
        };
    });
